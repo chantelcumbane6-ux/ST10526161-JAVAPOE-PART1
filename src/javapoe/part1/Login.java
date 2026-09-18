@@ -1,4 +1,4 @@
-//commit 5 - ST10526161 - checkUserName
+//commit 6 - ST10526161 - checkUserName
 
 package javapoe.part1;
 
